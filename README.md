@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <!-- <title>🏠 Banglore Home Price Prediction 📈</title> -->
 </head>
 <body>
   <h1 align="center">🖼️ Image Processor 🤖</h1>
@@ -24,6 +23,8 @@
   <h2>🎬 Introduction</h2>
 
   <p>The Image Processor is a web application that uses machine learning to classify images of famous sports personalities like Lionel Messi, Maria Sharapova, Roger Federer, Serena Williams, and Virat Kohli. Upload an image, and the app will identify the sports person in the image with a probability score for each possible match. 🏃‍♂️🎾</p>
+
+  <img src="https://github.com/NehaKanabar/ImageProcessing/assets/130577117/13e46ac9-cc94-4f34-b693-582ffee30521">
 
   <h2>🛠️ Installation</h2>
 
